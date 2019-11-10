@@ -1,0 +1,46 @@
+body{
+  background-color: #F9EECF;
+  text-align:center;
+}
+img{
+  display: block;
+  margin-left: 300px;
+  border-radius: 100px;
+}
+.name{
+  color: blue;
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+}
+h2{
+  color:grey;
+  font-family: 'Acme', sans-serif;
+  margin: auto;
+  width: 20%;
+  border: 3px solid green;
+  padding: 10px;
+}
+p{
+  font-family: 'Lobster', cursive;
+  font-size: 20px;
+  background-color: powderblue;
+  border-radius: 50px;
+  width: 50%;
+}
+hr{
+  background-color: white;
+  border-style: dashed;
+  width: 10%;
+  border-width: 2px;
+}
+.hobbies{
+  text-align: center;
+}
+.s{
+  width: 25%;
+
+
+}
+.footer{
+  background-color: powderblue;
+}
